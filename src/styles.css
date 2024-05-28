@@ -1,0 +1,26 @@
+.container-fluid {
+  background-color: #659aa6;
+  height: auto;
+  width: 100%;
+}
+
+#btn {
+  padding: 15px 30px;
+  font-size: 20px;
+  font-style: italic;
+  border-radius: 5px;
+  background-color: #f2e9e4;
+  box-shadow: 0 5px 8px rgb(0, 0, 0, 0.1);
+}
+
+#excuse {
+  font-size: 25px;
+  font-family: sans-serif;
+  background-color: #b4d2d9;
+  border-radius: 15px;
+  width: 100%;
+}
+
+.fixed-bottom {
+  background-color: #659aa6;
+}
